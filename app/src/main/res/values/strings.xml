@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PSI Downloader</string>
+    <string name="description">The PSI Downloader will download a file from the given URL below.</string>
+    <string name="button_download">Download</string>
+    <string name="input_url_hint">please enter a url</string>
+    <string name="input_url_label">URL:</string>
+    <string name="toast_invalid_url">Invalid URL. Please try again.</string>
+</resources>
