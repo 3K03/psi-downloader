@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PSIDownloader.iml" filepath="$PROJECT_DIR$/PSIDownloader.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/psi-downloader.iml" filepath="$PROJECT_DIR$/psi-downloader.iml" />
     </modules>
   </component>
 </project>

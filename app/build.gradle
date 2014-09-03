@@ -8,8 +8,8 @@ android {
         applicationId "burton.michael.psidownloader"
         minSdkVersion 8
         targetSdkVersion 20
-        versionCode 1
-        versionName "beta-0.1.0"
+        versionCode 2
+        versionName "beta-0.1.1"
     }
     buildTypes {
         release {
